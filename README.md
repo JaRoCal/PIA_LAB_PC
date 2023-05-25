@@ -3,7 +3,7 @@ Este repositorio tiene como objetivo mostrar el trabajo realizado en diferentes 
 
 1.-[Scripting en PowerShell](https://github.com/JaRoCal/PIA_LAB_PC/blob/485017ace6afcbb0b0bff27bbcb0ed9ec338b27a/Scripting%20en%20PowerShell.md)
 
-Scripting en Bash
+2.-[Scripting en Bash](https://github.com/JaRoCal/PIA_LAB_PC/blob/485017ace6afcbb0b0bff27bbcb0ed9ec338b27a/Scripting%20en%20Bash.md)
 
 Webscraping
 
