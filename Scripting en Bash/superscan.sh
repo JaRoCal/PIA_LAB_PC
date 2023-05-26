@@ -4,7 +4,7 @@
 # 
 date
 echo "---------------------------"
-echo "   Menu Principal"
+echo "----------Menu-------------"
 echo "---------------------------"
 echo "1. NetDiscover."
 echo "2. PortScanv1."
