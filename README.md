@@ -2,7 +2,7 @@
 Este repositorio tiene como objetivo mostrar el trabajo realizado por el alumno Jaime Ronaldo Calderon Sanchez en diferentes prácticas de Scripting durante el semestre que se llevo a cabo, abordando distintos temas y utilizando diversos lenguajes de programación. 
 A continuación, se proporciona una lista de las secciones incluidas en el repositorio:
 
-1.-[Scripting en PowerShell](https://github.com/JaRoCal/PIA_LAB_PC/blob/5f7494aeca2330ec6602b34a4a224647b92ecaf2/Scripting%20en%20PowerShell.md)
+1.-[Scripting en PowerShell](https://github.com/JaRoCal/PIA_LAB_PC/tree/181eb15fca148b07aa18d72755b82b0369395efd/Scripting%20en%20PowerShell)
 
 2.-[Scripting en Bash](https://github.com/JaRoCal/PIA_LAB_PC/blob/5f7494aeca2330ec6602b34a4a224647b92ecaf2/Scripting%20en%20Bash.md)
 
