@@ -4,7 +4,7 @@
 
 [bro](https://github.com/JaRoCal/PIA_LAB_PC/blob/dfd9d8c1e9f58169d212dac548fa73b3577438d3/Scripting%20en%20Bash/bro.sh)
 
-[netdiscover]()
+[netdiscover](https://github.com/JaRoCal/PIA_LAB_PC/blob/8e65b1b7d8849eb7203337c6ea40e9c8e66fb026/Scripting%20en%20Bash/netdiscover.sh)
 
 [number]()
 
