@@ -10,4 +10,4 @@ A continuación, se proporciona una lista de las secciones incluidas en el repos
 
 4.-[Escáner de Puertos](https://github.com/JaRoCal/PIA_LAB_PC/blob/14fb8c10738b5fcdf7207c4237b690f0b08734c7/Esc%C3%A1ner%20de%20Puertos.md)
 
-4.-[Envío de Correos](https://github.com/JaRoCal/PIA_LAB_PC/blob/7160278bf501a585fdfed2bf941ec42ae4b22255/Envi%C3%B3%20de%20Correos.md)
+4.-[Envío de Correos](https://github.com/JaRoCal/PIA_LAB_PC/tree/1328148a71dea48aa089851d0baa7b265dc333b5/Envio%20de%20correos)
