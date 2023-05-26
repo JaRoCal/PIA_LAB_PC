@@ -8,7 +8,7 @@
 
 [number](https://github.com/JaRoCal/PIA_LAB_PC/blob/fbd52acf07cf80c863d63000554deb0c191ac2c3/Scripting%20en%20Bash/number.sh)
 
-[portscanv1]()
+[portscanv1](https://github.com/JaRoCal/PIA_LAB_PC/blob/24643189e9424aa23cb5895fc5ace1f8e5bf0028/Scripting%20en%20Bash/portscanv1.sh)
 
 [superscan]()
 
