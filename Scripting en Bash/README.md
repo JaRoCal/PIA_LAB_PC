@@ -2,7 +2,7 @@
 
 ## En los scripts de Bash se llevaron a cabo diversas tareas con el propósito de adquirir conocimientos sobre el sistema operativo y comprender el funcionamiento de sus componentes.
 
-[bro]()
+[bro](https://github.com/JaRoCal/PIA_LAB_PC/blob/dfd9d8c1e9f58169d212dac548fa73b3577438d3/Scripting%20en%20Bash/bro.sh)
 
 [netdiscover]()
 
