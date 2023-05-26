@@ -6,7 +6,7 @@
 
 [netdiscover](https://github.com/JaRoCal/PIA_LAB_PC/blob/8e65b1b7d8849eb7203337c6ea40e9c8e66fb026/Scripting%20en%20Bash/netdiscover.sh)
 
-[number]()
+[number](https://github.com/JaRoCal/PIA_LAB_PC/blob/fbd52acf07cf80c863d63000554deb0c191ac2c3/Scripting%20en%20Bash/number.sh)
 
 [portscanv1]()
 
