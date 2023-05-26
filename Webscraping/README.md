@@ -1,4 +1,4 @@
-## Se realizaró un ejercicio en donde se elaboró un script de python para obtener del sitio de citas varias de ellas y se almacenarán dentro de un archivo en forma csv.
+## Se realizaron 2 scripts en Python donde se utilizarón los modulos requests y BeautifulSoup para buscar y extraer informacion de un sitio web dado por el maestro, donde principalmente se probaron diferentes formas de obtener una mejor forma de presentar la información extraida.
 
 [scrap12]()
 
