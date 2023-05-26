@@ -4,6 +4,6 @@
 
 [SCAN_PORTV1.py](https://github.com/JaRoCal/PIA_LAB_PC/blob/7212b38d7a7d4494cdeebda42eb7870c4289f672/Escaner%20de%20puertos/SCAN_PORTV1.py)
 
-[SCAN_PORTV2,py]()
+[SCAN_PORTV2,py](https://github.com/JaRoCal/PIA_LAB_PC/blob/493203d4d297ae72d1fce144e2a8bcb40417dac7/Escaner%20de%20puertos/SCAN_PORTV2.py)
 
 [SCAN_PORTV3.py]()
