@@ -2,7 +2,11 @@
 Este repositorio tiene como objetivo mostrar el trabajo realizado por el alumno Jaime Ronaldo Calderon Sanchez en diferentes prácticas de Scripting durante el semestre que se llevo a cabo, abordando distintos temas y utilizando diversos lenguajes de programación. 
 A continuación, se proporciona una lista de las secciones incluidas en el repositorio:
 ___
-
+### ALUMNO: Jaime Ronaldo Calderon Sanchez
+### MATRICULA: 1970947
+### GRUPO: 061
+### DOCENTE: Gerardo Bernal Carranza
+___
 ### SCRIPTS
 1.-[Scripting en PowerShell](https://github.com/JaRoCal/PIA_LAB_PC/tree/ce1ff2e8089ea3bbb2b3d940f262b974778f8c7e/Scripting%20en%20PowerShell)
 
