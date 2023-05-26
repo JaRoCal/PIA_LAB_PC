@@ -10,6 +10,6 @@
 
 [portscanv1](https://github.com/JaRoCal/PIA_LAB_PC/blob/24643189e9424aa23cb5895fc5ace1f8e5bf0028/Scripting%20en%20Bash/portscanv1.sh)
 
-[superscan]()
+[superscan](https://github.com/JaRoCal/PIA_LAB_PC/blob/13b4228c7a2f81507ac88ddebc908e2039585c88/Scripting%20en%20Bash/superscan.sh)
 
 [welcome]()
