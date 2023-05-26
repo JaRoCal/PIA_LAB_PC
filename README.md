@@ -4,7 +4,7 @@ A continuación, se proporciona una lista de las secciones incluidas en el repos
 
 1.-[Scripting en PowerShell](https://github.com/JaRoCal/PIA_LAB_PC/tree/181eb15fca148b07aa18d72755b82b0369395efd/Scripting%20en%20PowerShell)
 
-2.-[Scripting en Bash](https://github.com/JaRoCal/PIA_LAB_PC/blob/5f7494aeca2330ec6602b34a4a224647b92ecaf2/Scripting%20en%20Bash.md)
+2.-[Scripting en Bash](https://github.com/JaRoCal/PIA_LAB_PC/tree/5d40fdf71016d30bd754258c8667b6afa286ba0b/Scripting%20en%20Bash)
 
 3.-[Webscraping](https://github.com/JaRoCal/PIA_LAB_PC/tree/7561b758c097783c5fd79d254e25c89a8c5abd44/Webscraping)
 
